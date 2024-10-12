@@ -1,0 +1,311 @@
+@media(max-width:1700px) {
+    .pest_services {
+        width: 70% !important;
+    }
+
+    .services {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media(max-width:1199px) {
+    .cimex_image img {
+        bottom: 149px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        padding: 0px 8px;
+    }
+
+
+    .services {
+        width: 100%;
+        margin: auto;
+    }
+}
+
+@media(max-width:991px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        border-right: none;
+        padding: 0px 15px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .pest_opt {
+        justify-content: space-between !important;
+        align-items: baseline!important;
+    }
+
+    .hero_form {
+        width: 100%;
+        margin: auto;
+    }
+
+    .services {
+        width: 100%;
+        margin: auto;
+    }
+
+    .serv-opt {
+        flex-direction: column;
+    }
+
+    .cimex_image img {
+        margin: 10px 0px;
+        position: relative;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+    }
+
+    .about_content {
+        margin-top: 10px;
+    }
+
+    .about_image img {
+        width: 100%;
+    }
+}
+
+@media(max-width:767px) {
+
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .cp-60 {
+        padding: 30px 15px;
+    }
+
+    .null {
+        display: none;
+    }
+
+    .null2 {
+        display: block;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        border-right: none;
+        padding: 0px 15px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+
+    .hero_content {
+        padding: 30px 15px;
+    }
+
+    .hero_form {
+        width: 100%;
+        margin: auto;
+    }
+
+    .services {
+        width: 100%;
+        margin: auto;
+    }
+
+    .serv-opt {
+        flex-direction: column;
+    }
+
+    .cimex_image img {
+        margin: 10px 0px;
+        position: relative;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+    }
+
+    .about_image img {
+        width: 100%;
+    }
+
+    .about,
+    .experience,
+    .inspect_content, .identify, .bugs{
+        text-align: center;
+    }
+
+    .experience_image {
+        margin-bottom: 20px;
+    }
+
+    .inspect_image img {
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .partner_image {
+        flex-direction: column;
+    }
+
+    .partner_image img {
+        margin-bottom: 10px;
+    }
+
+    .pg_link {
+        flex-direction: column;
+    }
+
+    /* modal */
+
+    .modal-header h5 {
+        margin-top: 30px;
+    }
+
+    .info {
+        flex-direction: column;
+    }
+
+    .info input {
+        width: 100%;
+    }
+
+    .schedule_form {
+        width: 100% !important;
+        padding-top: 20px !important;
+    }
+
+    .pest_services {
+        width: 100% !important;
+    }
+
+    .pest_services label {
+        font-size: 16px !important;
+    }
+}
+
+@media(max-width:425px) {
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .cp-60 {
+        padding: 30px 15px;
+    }
+
+    .navbar-brand {
+        width: 75%;
+        padding: 10px 0px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+        border-right: none;
+        padding: 0px 15px;
+        text-align: center;
+    }
+
+    .null {
+        display: none;
+    }
+
+    .hero_content {
+        padding: 30px 15px;
+    }
+
+    .hero_form {
+        width: 100%;
+        margin: auto;
+    }
+
+    .services {
+        width: 100%;
+        margin: auto;
+    }
+
+    .serv-opt {
+        flex-direction: column;
+    }
+
+    .about_image img {
+        width: 100%;
+    }
+
+    .cimex_image img {
+        margin: 10px 0px;
+        position: relative;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+    }
+
+    .about,
+    .experience,
+    .inspect_content {
+        text-align: center;
+    }
+
+    .experience_image {
+        margin-bottom: 20px;
+    }
+
+    .inspect_image img {
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .partner_image {
+        flex-direction: column;
+    }
+
+    .partner_image img {
+        margin-bottom: 10px;
+    }
+
+    .pg_link {
+        flex-direction: column;
+    }
+
+    /* modal */
+
+    .modal-header h5 {
+        margin-top: 30px;
+    }
+
+    .info {
+        flex-direction: column;
+    }
+
+    .info input {
+        width: 100%;
+    }
+
+    .schedule_form {
+        width: 100% !important;
+        padding-top: 20px !important;
+    }
+
+    .pest_services {
+        width: 100% !important;
+    }
+
+    .pest_services label {
+        font-size: 16px !important;
+    }
+}
