@@ -1,4 +1,2 @@
-# pronto_pest
 
-Visit: https://faruq05.github.io/pronto_pest/
-# pronto-pest
+# https://zellyo-digital0.github.io/pronto-pest
